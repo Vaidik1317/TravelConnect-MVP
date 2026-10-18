@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "travelconnect",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
